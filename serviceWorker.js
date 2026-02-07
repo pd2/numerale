@@ -1,5 +1,5 @@
 const staticDev = "numerale"
-const service_worker_version = "v1.5"
+const service_worker_version = "v1.51"
 const assets = [
   "/",
   "index.html",
