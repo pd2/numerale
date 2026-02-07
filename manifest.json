@@ -4,7 +4,7 @@
   "start_url": "https://pd2.github.io/numerale/",
   "icons": [
     {
-      "src": "https://cdn.glitch.global/b5d7bcbc-5e84-45bd-9acf-1e8d4104d12d/kan_5_icon.png",
+      "src": "kan_5_icon.png",
       "sizes": "256x256",
       "type": "image/png"
     }
